@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: Ere_250893
+    username: root
+    url: jdbc:mysql://localhost:3306/fornecedor?serverTimezone=UTC
+  jpa:
+    hibernate:
+      ddl-auto: create
